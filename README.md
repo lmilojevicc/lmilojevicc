@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/319d4980-d868-4c23-968f-6ca49ac7de1c"
+    width="100%"
+    />
+</div>
 
-<!--
-**lmilojevicc/lmilojevicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋🏻 Hi there, I'm Luka!
+  
+- 🚀 **Software Engineer** specializing in **Go** and **Python**
+- 🎓 Currently completing the **Back-End** and **DevOps** paths on [Boot.dev](https://boot.dev)
+- 🛠️ Building backend systems and the automated workflows that support them
+- ⌨️ I live in **Neovim** because leaving the keyboard feels like a context switch I'd rather avoid
